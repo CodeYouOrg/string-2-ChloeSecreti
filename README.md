@@ -33,3 +33,4 @@ Welcome to the additional basic string exercises assignment! This exercise will 
 - Submit your completed `string2.py` file by pushing your repo to GitHub and it will auto grade. 
 
 Happy coding!
+# String_2
